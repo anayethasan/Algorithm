@@ -1,0 +1,1 @@
+{"name":"Local: Summation","url":"e:\\Algorithm\\Extra practice and contest 02-09-2025\\Summation.cpp","tests":[{"id":1740150126514,"input":"5 2","output":"7"},{"id":1740150146942,"input":"2 3","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algorithm\\Extra practice and contest 02-09-2025\\Summation.cpp","group":"local","local":true}
